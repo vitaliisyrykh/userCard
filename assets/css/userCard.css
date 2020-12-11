@@ -62,7 +62,7 @@
     font-size: 28px;
   }
 }
-@media screen and (max-width:576) and (orientation: portrait){
+@media screen and (max-width:576px) and (orientation: portrait){
  
   .userCard{
     
